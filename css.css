@@ -1,0 +1,54 @@
+
+.div1 {
+ text-align: center;
+}
+
+.div3 {
+ text-align: center;
+ color: white;
+ background-image: linear-gradient(to right,purple,blue);
+ margin: 20px 115px;
+ padding: 10px ;
+}
+
+.div4 {
+    text-align: center;
+    margin: 30px;
+}
+
+.div2 {
+    text-align: center;
+
+}
+
+.div2 a{
+
+    margin-left: -70px;
+
+}
+
+p{
+    text-align: left;
+    margin-left: 118px;
+}
+
+.div5{
+    background-color:rgb(255, 255, 255);
+    background-position: center;
+    height: 400px;
+    margin: 10px 450px;
+    padding: 5px 10px 5px 10px ;
+}
+.div3 a{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+.div6{
+    background-image: linear-gradient(to right,purple,blue);
+    height: 100%;
+    width: 100%;
+    padding: 200px 0px ;
+}
